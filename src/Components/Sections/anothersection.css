@@ -1,0 +1,94 @@
+h3.hheadingg {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  margin: 0 0 10px 0;
+}
+h2.secondd {
+  color: #fff;
+  font-size: 39px;
+  font-weight: 800;
+  line-height: 46px;
+  letter-spacing: -0.2px;
+}
+.heading__description {
+  color: #fff;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0.15px;
+}
+.marrr {
+  margin: 0;
+  margin-bottom: 20px;
+}
+.backxx {
+  padding: 100px 171px 0 240px;
+
+  font-family: Manrope;
+}
+a.elementskit-normal {
+  /* margin-bottom: 17px; */
+  margin-top: 0px;
+  padding: 12px 1px 13px 13px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 30px;
+  background-color: #f14d5d;
+  border-style: none;
+  text-decoration: none;
+  border-radius: 5px 5px 5px 5px;
+}
+a.elementskit-normal:hover {
+  color: wheat;
+  background-color: #120f2d;
+}
+.ekitwraper {
+  padding-top: 41px;
+}
+h3.elementorxx {
+  font-family: "Manrope", Sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 28px;
+}
+p.elemenas {
+  color: #58566b;
+  font-family: "Manrope", Sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0.2px;
+}
+
+.coo.col-sm-6 {
+  background-color: #6c6cc4;
+  padding-bottom: 6%;
+}
+.cooo.col-sm-6 {
+  background-color: #120f2d;
+}
+.textareyyaa {
+  text-align: center;
+  border: 0 solid;
+  padding: 22px 37px 17px 33px;
+  margin-right: 0%;
+  background-color: #fff;
+  border-radius: 8px 8px 8px 8px;
+}
+.elementor-icon-box-icon {
+  padding-top: 28%;
+}
+.navbadk.nav {
+  margin-right: 0%;
+}
+.dfg.nav-item {
+  margin-left: 4%;
+}
+.bnm.nav {
+  margin-top: 4%;
+}
+.mas {
+  margin: 99px 0px 0px -14%;
+  padding: -11px 175px 0px 0%;
+}

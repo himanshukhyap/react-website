@@ -1,0 +1,19 @@
+Nav {
+  border-bottom: none;
+  /* border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(245, 172, 0); */
+}
+.navbar-brand {
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: medium;
+  text-decoration: none;
+  white-space: nowrap;
+  /* margin-left: -180px;
+  margin-top: -20px; */
+}
+.roww {
+  background-color: white;
+}

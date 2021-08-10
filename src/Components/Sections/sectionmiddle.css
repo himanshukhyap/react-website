@@ -1,0 +1,118 @@
+h3.elementskit-section-subtitle {
+  color: #f14d5d;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  margin: 0 0 10px 0;
+  text-align: center;
+}
+h2.ekit-heading--title.elementskit-section-title {
+  color: #120f2d;
+  margin: 0 0 -10px 0;
+  font-size: 39px;
+  font-weight: 800;
+  line-height: 46px;
+  letter-spacing: -0.2px;
+  text-align: center;
+}
+.formargin {
+  padding-top: 6%;
+}
+.secondmargin {
+  margin-top: 5%;
+  text-align: center;
+}
+ol.carousel-indicators {
+  list-style-type: none;
+}
+.owl-item.active {
+  opacity: 1;
+  visibility: visible;
+}
+.single-course-category {
+  text-align: center;
+  margin-bottom: 50px;
+  padding: 40px 30px 30px;
+  border-radius: 5px;
+
+  overflow: hidden;
+
+  transition: all 0.4s ease;
+
+  margin-top: 50px;
+  margin-bottom: 15px;
+  background: #fff;
+  text-align: center;
+  position: relative;
+  min-height: 250px;
+
+  box-shadow: 0 0 30px rgba(29, 23, 77, 0.06);
+}
+.course-media {
+  margin-bottom: 25px;
+}
+img.lazyloaded {
+  transition: all 0.4s ease;
+  width: 50px;
+  margin: auto;
+}
+a {
+  color: #120f2d;
+}
+.hover-content {
+  padding: 50px 20px 30px;
+}
+.btn-wrap {
+  margin-top: 50px;
+}
+.course-button {
+  font-size: 16px;
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+
+  background: rgba(255, 255, 255, 0.1);
+  display: inline-block;
+  padding: 12px;
+  color: #fff;
+}
+a:visited {
+  text-decoration: none;
+  outline: 0;
+}
+a.elementskit-btn.whitespace--normal {
+  padding: 18px 36px 18px 36px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 23px;
+  background-color: #f14d5d;
+  border-style: none;
+  border-radius: 5px 5px 5px 5px;
+}
+.ekit-btn-wraper {
+  padding-bottom: 7%;
+  padding-top: 4%;
+}
+img.swiper {
+  border-style: solid;
+  border-width: 0 1px 0 0;
+  border-color: #cbd5e9;
+}
+img.swiper {
+  transition: all 0.4s ease;
+  max-width: 236px;
+  height: auto;
+}
+h2.elementor-heading-title.elementor-size-default {
+  color: #120f2d;
+  font-family: "Manrope", Sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 28px;
+}
+h2.elementor-heading-title.elementor-size-default {
+  margin-top: 9%;
+}
+.bottomargin.container {
+  padding-bottom: 11%;
+}

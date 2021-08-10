@@ -1,0 +1,76 @@
+body {
+  background-image: url("img_tree.gif"), url("paper.gif");
+  background-color: #cccccc;
+}
+
+h3.subtitle {
+  color: #f14d5d;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  margin: 0 0 13px 0;
+}
+h2.section-title {
+  color: #120f2d;
+  margin: 0 0 15px 0;
+  font-size: 49px;
+  font-weight: 800;
+  line-height: 60px;
+}
+p.topic {
+  display: inline-block;
+  width: 100%;
+  font-size: 16px;
+  line-height: 24px;
+}
+input.mr-2.form-control {
+  width: 244px;
+}
+li.hide {
+  list-style-type: none;
+}
+svg {
+  margin-right: 15px;
+}
+svg {
+  margin-right: 15px;
+}
+
+.check {
+  margin-right: 15px;
+  color: green;
+}
+.margintop {
+  margin-top: 10px;
+}
+.forstyle {
+  margin-left: 168px;
+  margin-top: 20px;
+}
+.imagg {
+  background-image: url(https://demo.themewinter.com/wp/courselog/wp-content/uploads/2020/12/hero_area_image.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  margin-bottom: -6%;
+  padding-bottom: 16%;
+}
+.textareyyaa {
+  border: 2px solid;
+  padding: 31px 30px 31px 30px;
+  background-color: #fff;
+  border-radius: 8px 8px 8px 8px;
+}
+.xx {
+  margin-top: 16%;
+  margin-left: 10%;
+  /* padding-left: 0%; */
+}
+img.imagggg {
+  margin-top: 5%;
+  margin-left: 5%;
+}
+.zz {
+  padding-left: 10%;
+  margin-top: 72px;
+  /* margin-left: 29px; */
+}

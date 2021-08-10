@@ -1,0 +1,147 @@
+h3.qq {
+  color: #f14d5d;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  margin: 0 0 10px 0;
+}
+h2.ww {
+  color: #120f2d;
+  margin: 0 0 30px 0;
+  font-size: 39px;
+  font-weight: 800;
+  line-height: 46px;
+  letter-spacing: -0.2px;
+}
+.sectionpart {
+  background-color: #f8f8fc;
+  margin-left: 10;
+  /* padding-left: 17%; */
+  /* padding-top: 6%; */
+  padding: 112px 126px 0 10%;
+}
+a.activee.nav-link.active {
+  color: #fff;
+  background: #2878eb;
+}
+a.colorr.nav-link {
+  color: black;
+  padding: 8px 90px 8px 50px;
+  text-align: center;
+}
+
+a.colorr.nav-link:hover {
+  color: white;
+  background-color: #2878eb;
+}
+.ll {
+  padding-top: 3%;
+}
+a.adesign {
+  text-decoration: none;
+}
+img.m {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+
+  display: inline-block;
+  margin-right: 15px;
+  background: #defff6;
+  overflow: hidden;
+}
+svg.gg {
+  margin-right: 5px;
+}
+.rr.nav-item {
+  padding-right: 59px;
+}
+a.btnn {
+  text-decoration: none;
+  font-size: 15px;
+  color: #f14d5d;
+  border-bottom: 1px solid #f14d5d;
+  border-bottom-color: #f14d5d;
+}
+a.btnn:hover {
+  color: #2878eb;
+  font-size: 15px;
+  border-color: #2878eb;
+}
+.xx {
+  /* background-color: #ffa100; */
+  margin-top: -54%;
+  margin-left: 5%;
+  /* border: none; */
+  /* display: inline-block; */
+  border-radius: 3px;
+  /* font-size: 16px; */
+  font-weight: 600;
+  /* color: #ffffff !important; */
+  text-transform: capitalize;
+}
+.pp {
+  padding-top: 51%;
+}
+button.dd {
+  background: #ffa100;
+  border: none;
+  font-size: 15px;
+  font-weight: 600;
+
+  color: #ffffff !important;
+  text-transform: capitalize;
+  margin-right: 10px;
+}
+
+button.cc {
+  background: #1dc295;
+  border: none;
+  font-size: 15px;
+  font-weight: 600;
+
+  color: #ffffff !important;
+  text-transform: capitalize;
+}
+span.course {
+  display: inline-block;
+  border-radius: 100px;
+
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 70px;
+  text-align: center;
+  background: #f14d5d;
+  color: #fff;
+
+  box-shadow: 0 5px 15px rgba(241, 77, 93, 0.41);
+  position: absolute;
+  right: 25px;
+  bottom: 219px;
+  min-width: 70px;
+  min-height: 70px;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+}
+.tt {
+  padding-top: 2%;
+}
+a.elementskit-btn.whitespace--normal {
+  padding: 18px 36px 18px 36px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 23px;
+  background-color: #f14d5d;
+  border-style: none;
+  border-radius: 5px 5px 5px 5px;
+  text-decoration: none;
+}
+.ekit-btn-wraper {
+  text-align: center;
+
+  padding-top: 8%;
+}
